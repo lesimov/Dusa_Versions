@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added illenium-appearance integration, made some changes in UI page, fixed license specified slot problem"}
+{"version":"1.0.3","news":"Added illenium-appearance integration, made some changes in UI page, fixed license specified slot problem"}
