@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fix for synchronization problems, minor hotfixes & fix for locked NPC cars"}
+{"version":"1.0.3","news":"Removed baseevents integration for newest ESX versions and QBCore"}
