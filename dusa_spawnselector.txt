@@ -1,1 +1,1 @@
-{"version":"1.1","news":"Fixed translation issue, added job special locations, added selection for disable or enable creating spawns, fixed sql and JSON error"}
+{"version":"1.1","news":"Fixed translation issue, added job special locations, added selection for disable or enable creating spawns, fixed sql and JSON error. Big bug fix for ESX users committed"}
