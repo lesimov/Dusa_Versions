@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Script released, waiting for bug reports to fix issues for here"}
+{"version":"1.0.1","news":"Huge general bug fix for both framework, many server side optimization has been made. Fixed bugs that reported"}
