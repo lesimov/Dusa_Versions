@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Huge general bug fix for both framework, many server side optimization has been made. Fixed bugs that reported"}
+{"version":"1.0.2","news":"Wardrobe bug fix - Added different progressbar option - Fixed delete prop problem"}
