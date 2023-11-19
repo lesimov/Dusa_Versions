@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Wardrobe bug fix - Added different progressbar option - Fixed delete prop problem"}
+{"version":"1.0.3","news":"Calling pet bug fix - Fixed issue for non target users"}
