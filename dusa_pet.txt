@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Calling pet bug fix - Fixed issue for non target users"}
+{"version":"1.5","news":"4 new addon pet - 20+ new clothes - 3 different type new leash system - Bug fixes"}
