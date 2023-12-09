@@ -1,1 +1,1 @@
-{"version":"1.5.1","news":"Fixed K9 search bug"}
+{"version":"1.5.2","news":"Fixed crash issue, Fixed minor bugs"}
