@@ -1,1 +1,1 @@
-{"version":"0.5","news":"Script released, waiting for bug reports to fix issues for here"}
+{"version":"0.6","news":"Added translations, fixed qb issues, fixed play with group issue"}
