@@ -1,1 +1,1 @@
-{"version":"0.6","news":"Added translations, fixed qb issues, fixed play with group issue"}
+{"version":"0.7","news":"Fixed play with group auto fill issue, fixed closest player issue. Added 4 new translations"}
