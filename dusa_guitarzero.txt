@@ -1,1 +1,1 @@
-{"version":"0.7","news":"Fixed play with group auto fill issue, fixed closest player issue. Added 4 new translations"}
+{"version":"0.8","news":"Fixed duplicate minigame keys, fixed play menu visual bug, fixed glitch with choosing players, fixed scoreboard not updating dynamically"}
