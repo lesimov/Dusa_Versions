@@ -1,1 +1,1 @@
-{"version":"1.5.2","news":"Fixed crash issue, Fixed minor bugs"}
+{"version":"1.5.3","news":"Fixed hud sync problem, fixed all bugs reported"}
