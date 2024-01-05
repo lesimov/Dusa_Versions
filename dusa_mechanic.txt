@@ -1,1 +1,1 @@
-{"version":"0.5","news":"Huge fixes for ESX, fixed some glitches for both framework. DEFINITELY GET THIS UPDATE"}
+{"version":"0.6","news":"Huge fixes, new language support, optimization. DEFINITELY GET THIS UPDATE"}
