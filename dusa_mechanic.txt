@@ -1,1 +1,1 @@
-{"version":"0.6","news":"Huge fixes, new language support, optimization. DEFINITELY GET THIS UPDATE"}
+{"version":"0.7","news":"Client ms increase problem fixed, +optimization"}
