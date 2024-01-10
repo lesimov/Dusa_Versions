@@ -1,1 +1,1 @@
-{"version":"0.7","news":"Client ms increase problem fixed, +optimization"}
+{"version":"0.8","news":"Added save function for fitment and tuning, fixed boss menu server issue, added new export for saving"}
