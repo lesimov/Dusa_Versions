@@ -1,1 +1,1 @@
-{"version":"1.1","news":"Fixed minigame responsive issue"}
+{"version":"1.2","news":"Fixed lock sync problem, fixed vehicles locking itself, fixed some vehicles are unlocking by itself after hotwiring"}
