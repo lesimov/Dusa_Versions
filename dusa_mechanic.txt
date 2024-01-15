@@ -1,1 +1,1 @@
-{"version":"0.8","news":"Added save function for fitment and tuning, fixed boss menu server issue, added new export for saving"}
+{"version":"0.9","news":"Added new color palette for wheels, added pay from company button, made menus more smoother, fixed craft removing all required items, fixed other minor issues"}
