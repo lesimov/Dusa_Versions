@@ -1,0 +1,1 @@
+{"version":"0.7","news":"Added translations, fixed esx society error, fixed esx admin menu issue, fixed invoice can not be paid with reference number"}
