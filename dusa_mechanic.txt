@@ -1,1 +1,5 @@
-{"version":"0.9","news":"Added new color palette for wheels, added pay from company button, made menus more smoother, fixed craft removing all required items, fixed other minor issues"}
+{"version":"1.0","news":"Tuning drivetrain problem
+Tuning not applying after cancel button
+Fitment menu camera
+Fitment wheel disappearing
+Headlights not synced and MORE"}
