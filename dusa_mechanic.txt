@@ -1,5 +1,1 @@
-{"version":"1.0","news":"Tuning drivetrain problem
-Tuning not applying after cancel button
-Fitment menu camera
-Fitment wheel disappearing
-Headlights not synced and MORE"}
+{"version":"1.0.5","news":"Global bug fix, new features. Please get this update"}
