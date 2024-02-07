@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Global bug fix, new features. Please get this update"}
+{"version":"1.0.6","news":"Global bug fix, new features, advanced pearlescent menu & chameleons. Please get this update"}
