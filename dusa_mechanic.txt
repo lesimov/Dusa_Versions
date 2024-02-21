@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Global bug fix, new features, advanced pearlescent menu & chameleons. Please get this update"}
+{"version":"1.0.7","news":"Backends boss menu bugs are fixed, some customizations and bug fixes. Added new options to config"}
