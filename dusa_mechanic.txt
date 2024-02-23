@@ -1,1 +1,3 @@
-{"version":"1.0.7","news":"Backends boss menu bugs are fixed, some customizations and bug fixes. Added new options to config"}
+{"version":"1.0.8","news":"Got some error reports for a single mechanic shop situation, fixed it
+Fixed boss menu unknown rank
+Fixed other bugs reported"}
