@@ -1,1 +1,1 @@
-{"version":"0.8","news":"Fixed duplicate minigame keys, fixed play menu visual bug, fixed glitch with choosing players, fixed scoreboard not updating dynamically"}
+{"version":"1.0","news":"Fixed decode error"}
