@@ -1,1 +1,1 @@
-{"version":"0.93","news":"Fixes at update channel, TODO: Fish race, scoreboard, lbs system"}
+{"version":"1.1.5","news":"Fixes at update channel, TODO: Fish race, scoreboard, lbs system"}
